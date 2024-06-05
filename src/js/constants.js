@@ -1,4 +1,4 @@
-export const contractAddress = "<put_contract_adress_here>";
+export const contractAddress = "<put_contract_address_here>";
 export const abi = [
   {
     inputs: [
