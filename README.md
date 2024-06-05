@@ -9,3 +9,7 @@
 
 1. `yarn install` to install dependencies
 2. `yarn dev` to run the app
+
+### Dapp preview
+
+![alt text](</readme-images/Screenshot 2024-06-05 at 13.49.15.png>)
