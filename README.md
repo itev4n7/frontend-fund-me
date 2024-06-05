@@ -4,6 +4,8 @@
 
 1. Deploy smart contract to a testnet or hardhat node ([use this project](https://github.com/itev4n7/fund-me-hardhat))
 2. Put deployed smart contract address into `contractAddress` variable that placed in `src/js/constants.js` file
+   
+   **Note:** if you changed the `FundMe.sol`, make sure to change `abi` variable in `src/js/constants.js` file
 
 ### To run DApp
 
